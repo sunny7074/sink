@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1759922058,,"wq"
+|2,0,1759995594,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,43 @@
 # Registers:
 
 # File marks:
-'0  4  20  ~/sam
-|4,48,4,20,1759922058,"~/sam"
-'1  4  19  ~/sam
-|4,49,4,19,1759921773,"~/sam"
+'0  4  101  ~/.ssh/authorized_keys
+|4,48,4,101,1759995594,"~/.ssh/authorized_keys"
+'1  4  20  ~/sam
+|4,49,4,20,1759922058,"~/sam"
+'2  4  19  ~/sam
+|4,50,4,19,1759921773,"~/sam"
 
 # Jumplist (newest first):
+-'  4  101  ~/.ssh/authorized_keys
+|4,39,4,101,1759995594,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1759995492,"~/.ssh/authorized_keys"
 -'  4  20  ~/sam
 |4,39,4,20,1759922058,"~/sam"
+-'  4  20  ~/sam
+|4,39,4,20,1759922058,"~/sam"
+-'  4  19  ~/sam
+|4,39,4,19,1759921773,"~/sam"
 -'  4  19  ~/sam
 |4,39,4,19,1759921773,"~/sam"
 -'  1  0  ~/sam
 |4,39,1,0,1759921727,"~/sam"
 -'  1  0  ~/sam
 |4,39,1,0,1759921727,"~/sam"
+-'  1  0  ~/sam
+|4,39,1,0,1759921727,"~/sam"
+-'  1  0  ~/sam
+|4,39,1,0,1759921727,"~/sam"
 
 # History of marks within files (newest to oldest):
+
+> ~/.ssh/authorized_keys
+	*	1759995589	0
+	"	4	101
+	^	4	102
+	.	4	101
+	+	4	101
 
 > ~/sam
 	*	1759922055	0
